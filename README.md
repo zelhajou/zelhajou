@@ -1,6 +1,6 @@
-
-  <span style="display:block;text-align:center">![messagif (4)](https://github.com/zelhajou/zelhajou/assets/39954629/c67ceb07-bbf2-4129-a42a-1ce81f02bd86)</span>
-
+<p align="center">  
+<img src ="https://github.com/zelhajou/zelhajou/assets/39954629/c67ceb07-bbf2-4129-a42a-1ce81f02bd86">
+</p>
 
 <!-- 
 ![df1wdk7-fa62d5b6-a1b2-4b2b-b407-02e737476148](https://github.com/zelhajou/zelhajou/assets/39954629/7774ba2d-1741-4dcd-b8d4-1d6bdcb64d40)
