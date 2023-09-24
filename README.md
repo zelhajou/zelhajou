@@ -3,8 +3,9 @@
 <p align="center">  
 <img src ="https://github.com/zelhajou/zelhajou/assets/39954629/c67ceb07-bbf2-4129-a42a-1ce81f02bd86">
 </p>
+-->
 
-
+<!--
 ![df1wdk7-fa62d5b6-a1b2-4b2b-b407-02e737476148](https://github.com/zelhajou/zelhajou/assets/39954629/7774ba2d-1741-4dcd-b8d4-1d6bdcb64d40)
 
 ![6e90f5e339a981d9cd85a41f9f3f6e91](https://github.com/zelhajou/zelhajou/assets/39954629/22f095ba-8f1f-43a3-8360-c84b938afb63)
