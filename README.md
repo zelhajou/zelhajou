@@ -12,6 +12,10 @@
 </a>
 
 <a href="https://medium.com/@aaaikrz">
+  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" />
+</a>
+
+<a href="https://discord.com/users/8763">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/medium.svg" />
 </a>
 
