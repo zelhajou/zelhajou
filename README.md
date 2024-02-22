@@ -1,6 +1,6 @@
 ![268258682-944666c7-2cad-4684-af3b-e2ac787d2091 (1)](https://github.com/zelhajou/zelhajou/assets/39954629/12c82866-518c-494b-b806-66803301d46f)
 
-<a href="https://www.linkedin.com/in/zelahjou/">
+<a href="https://www.linkedin.com/in/zelhajou/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
 </a>
 <a href="mailto:zelhajou@gmail.com">
