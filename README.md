@@ -1,12 +1,12 @@
-<!--
-![268258682-944666c7-2cad-4684-af3b-e2ac787d2091 (1)](https://github.com/zelhajou/zelhajou/assets/39954629/12c82866-518c-494b-b806-66803301d46f)
--->
+Hi 👋 My name is Zakaria
+========================
+
 <div align="left">
 <a href="mailto:zelhajou@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/zelhajou/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.simpleicons.org/linkedin/000/fff" />
 </a>
 <a href="https://twitter.com/aaaikrz">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" />
