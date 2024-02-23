@@ -1,6 +1,7 @@
 <!--
 ![268258682-944666c7-2cad-4684-af3b-e2ac787d2091 (1)](https://github.com/zelhajou/zelhajou/assets/39954629/12c82866-518c-494b-b806-66803301d46f)
 -->
+<div align="left">
 <a href="mailto:zelhajou@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" />
 </a>
@@ -20,6 +21,26 @@
 <a href="https://medium.com/@aaaikrz">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/medium.svg" />
 </a>
+</div>
+
+<div align="right">
+  
+[![](https://visitcount.itsvg.in/api?id=zelhajou&icon=0&color=12)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=zelhajou&theme=default&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=zelhajou&theme=default&hide_border=false)
+
+</div>
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!--
