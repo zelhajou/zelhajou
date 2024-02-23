@@ -1,5 +1,4 @@
-Hi 👋 My name is Zakaria
-========================
+
 
 <div align="left">
 <a href="mailto:zelhajou@gmail.com">
@@ -12,7 +11,7 @@ Hi 👋 My name is Zakaria
   <img align="left" alt="Twitter" width="22px" src="https://cdn.simpleicons.org/x/000/fff" />
 </a>
 
-<a href="https://discord.com/users/8763">
+<a href="https://discord.com/users/aaaikrz">
   <img align="left" alt="Discord" width="22px" src="https://cdn.simpleicons.org/discord/000/fff" />
 </a>
 <a href="https://t.me/aaaikrz">
@@ -30,6 +29,9 @@ Hi 👋 My name is Zakaria
 </div>
 
 ---
+
+
+
 
 <div align="center">
   
