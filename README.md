@@ -26,7 +26,6 @@
 
 </div>
 
----
 
 ## Hey 👋, I'm Zakaria!  
 
@@ -38,18 +37,22 @@
 
 ## Github Stats
 
-<table><tr><td valign="center" width="50%">
-
+<table>
+<tr>
+<td valign="center" width="33%">
 <img src="https://github-readme-stats.vercel.app/api?username=zelhajou&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td>
 
-</td><td valign="center" width="50%">
+<td valign="center" width="33%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zelhajou&theme=default&hide_border=true" align="center" style="width: 100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zelhajou&theme=default&hide_border=true" align="center" />
 
-</td></tr></table>  
+</td>
 
-<div align="center">
-  
+<td valign="center" width="33%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelhajou&layout=compact&hide_border=true" align="center" style="width: 100%" />
+</td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelhajou&hide_progress=compact&layout=compact)
-</div>
+</tr>
+
+</table>  
