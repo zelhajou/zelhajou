@@ -6,8 +6,6 @@
 <!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hey%20👋,%20I\'m%20Zakaria&width=1000&height=120)](https://github.com/Akshay090/svg-banners) -->
 
 
-##
-
 <table border="0px" align="center">
 <tr>
 <td valign="top" width="33%">
