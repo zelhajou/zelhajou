@@ -5,15 +5,15 @@
 
 ## Github Stats
 
-<table>
+<table border="0px" align="center">
 <tr>
-<td valign="center" width="33%">
+<td valign="top" width="33%">
 <img src="https://github-readme-stats.vercel.app/api?username=zelhajou&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
 </td>
-<td valign="center" width="33%">
+<td valign="top" width="33%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zelhajou&theme=default&hide_border=true" align="center" style="width: 100%" />
 </td>
-<td valign="center" width="33%">
+<td valign="top" width="33%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelhajou&layout=compact&hide_border=true" align="center" style="width: 100%" />
 </td>
 </tr>
