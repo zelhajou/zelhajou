@@ -3,23 +3,23 @@ Hi 👋 My name is Zakaria
 
 <div align="left">
 <a href="mailto:zelhajou@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/000/fff" />
 </a>
 <a href="https://www.linkedin.com/in/zelhajou/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.simpleicons.org/linkedin/000/fff" />
 </a>
 <a href="https://twitter.com/aaaikrz">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.simpleicons.org/x/000/fff" />
 </a>
 
 <a href="https://discord.com/users/8763">
-  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" />
+  <img align="left" alt="Discord" width="22px" src="https://cdn.simpleicons.org/discord/000/fff" />
 </a>
 <a href="https://t.me/aaaikrz">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/telegram.svg" />
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/000/fffg" />
 </a>
 <a href="https://medium.com/@aaaikrz">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/medium.svg" />
+  <img align="left" alt="Medium" width="22px" src="https://cdn.simpleicons.org/medium/000/fff" />
 </a>
 </div>
 
