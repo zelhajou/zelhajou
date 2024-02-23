@@ -32,8 +32,7 @@
 
 </table>
 
----
-
+## Connect with me
 
 <div align="left">
 <a href="mailto:zelhajou@gmail.com">
