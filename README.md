@@ -1,24 +1,22 @@
-
-
 <div align="left">
 <a href="mailto:zelhajou@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/000/fff" />
+  <img align="left" alt="Gmail" width="18px" src="https://cdn.simpleicons.org/gmail/000/fff" />
 </a>
 <a href="https://www.linkedin.com/in/zelhajou/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.simpleicons.org/linkedin/000/fff" />
+  <img align="left" alt="Linkedin" width="18px" src="https://cdn.simpleicons.org/linkedin/000/fff" />
 </a>
 <a href="https://twitter.com/aaaikrz">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.simpleicons.org/x/000/fff" />
+  <img align="left" alt="Twitter" width="18px" src="https://cdn.simpleicons.org/x/000/fff" />
 </a>
 
 <a href="https://discord.com/users/aaaikrz">
-  <img align="left" alt="Discord" width="22px" src="https://cdn.simpleicons.org/discord/000/fff" />
+  <img align="left" alt="Discord" width="18px" src="https://cdn.simpleicons.org/discord/000/fff" />
 </a>
 <a href="https://t.me/aaaikrz">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/000/fffg" />
+  <img align="left" alt="Telegram" width="18px" src="https://cdn.simpleicons.org/telegram/000/fff" />
 </a>
 <a href="https://medium.com/@aaaikrz">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.simpleicons.org/medium/000/fff" />
+  <img align="left" alt="Medium" width="18px" src="https://cdn.simpleicons.org/medium/000/fff" />
 </a>
 </div>
 
@@ -30,34 +28,28 @@
 
 ---
 
+## Hey 👋, I'm Zakaria!  
 
 
+
+
+
+
+
+## Github Stats
+
+<table><tr><td valign="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zelhajou&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="center" width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zelhajou&theme=default&hide_border=true" align="center" />
+
+</td></tr></table>  
 
 <div align="center">
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=zelhajou&theme=default&hide_border=false)
 
-</div>
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelhajou&hide_progress=compact&layout=compact)
--->
-<!--
-**zelhajou/zelhajou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
