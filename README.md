@@ -33,7 +33,6 @@
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=zelhajou&theme=default&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zelhajou&theme=default&hide_border=false)
 
 </div>
