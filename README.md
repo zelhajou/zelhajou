@@ -1,6 +1,7 @@
-## Hey 👋, I'm Zakaria  
+## 👋 Hi everyone, I'm Zakaria  
 
-<!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hey%20👋,%20I\'m%20Zakaria&width=1000&height=120)](https://github.com/Akshay090/svg-banners) -->
+
+## 🔥 GitHub Stats:
 
 <table border="0px" align="center">
 <tr>
@@ -16,21 +17,12 @@
 </tr>
 </table>
 
-## 
-<!--
-<table border="0px" align="right">
-<tr>
-<td>
- 
- [![](https://visitcount.itsvg.in/api?id=zelhajou&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
- 
-</td>
-</tr>
-</table>
--->
-<table border="0px" align="left">
-<tr>
-<td valign="center">
+
+
+
+## 📩 Contact me:
+
+
  <a  href="mailto:zelhajou@gmail.com">
    <img align="left" alt="Gmail" width="18px" src="https://cdn.simpleicons.org/gmail/000/fff" />
  </a>
@@ -49,6 +41,4 @@
  <a href="https://medium.com/@aaaikrz">
    <img align="left" alt="Medium" width="18px" src="https://cdn.simpleicons.org/medium/000/fff" />
  </a>
-</td>
-</tr>
-</table>
+<br>
