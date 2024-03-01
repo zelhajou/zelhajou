@@ -38,7 +38,7 @@
  <a href="https://t.me/aaaikrz">
    <img align="left" alt="Telegram" width="18px" src="https://cdn.simpleicons.org/telegram/000/fff" />
  </a>
- <a href="https://medium.com/@aaaikrz">
+<!--  <a href="https://medium.com/@aaaikrz">
    <img align="left" alt="Medium" width="18px" src="https://cdn.simpleicons.org/medium/000/fff" />
- </a>
+ </a> -->
 <br>
