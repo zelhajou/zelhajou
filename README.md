@@ -1,26 +1,12 @@
+
+ 
 # 👋 Hello world!
+
 
 
 ## 🔥 GitHub Stats:
 
-<!--
-<table border="0px" align="center">
-<tr>
-<td valign="top" width="33%">
-<img src="https://github-readme-stats.vercel.app/api?username=zelhajou&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
-</td>
-<td valign="top" width="33%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zelhajou&theme=default&hide_border=true" align="center" style="width: 100%" />
-</td>
-<td valign="top" width="33%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelhajou&layout=compact&hide_border=true" align="center" style="width: 100%" />
-</td>
-</tr>
-</table>
--->
-
-
-| <img src="https://github-readme-stats.vercel.app/api?username=zelhajou&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=zelhajou&theme=default&hide_border=true" align="center" style="width: 100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelhajou&layout=compact&hide_border=true" align="center" style="width: 100%" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=zelhajou&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" style="width: 100%" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=zelhajou&theme=default&hide_border=true&theme=dark" align="center" style="width: 100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelhajou&layout=compact&hide_border=true&theme=dark" align="center" style="width: 100%" /> |
 |:-:|:-:|:-:|
 
 
@@ -42,7 +28,4 @@
  <a href="https://t.me/aaaikrz">
    <img align="left" alt="Telegram" width="18px" src="https://cdn.simpleicons.org/telegram/000/fff" />
  </a>
-<!--  <a href="https://medium.com/@aaaikrz">
-   <img align="left" alt="Medium" width="18px" src="https://cdn.simpleicons.org/medium/000/fff" />
- </a> -->
 <br>
