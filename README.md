@@ -4,9 +4,9 @@
 <a href="mailto:zelhajou@gmail.com">
     <img align="left" alt="Gmail" width="18px" src="https://cdn.simpleicons.org/gmail/000/fff" />
 </a>
-<a href="https://www.github.com/zelhajou">
+<!-- <a href="https://www.github.com/zelhajou">
     <img align="left" alt="Github" width="18px" src="https://cdn.simpleicons.org/github/000/fff" />
-</a>
+</a> -->
 <a href="https://www.linkedin.com/in/zelhajou/">
     <img align="left" alt="Linkedin" width="18px" src="https://cdn.simpleicons.org/linkedin/000/fff" />
 </a>
