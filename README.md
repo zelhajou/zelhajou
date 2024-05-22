@@ -51,7 +51,7 @@
 </div>
 
 --------
-<p align="center">
+<p align="right">
 	<img src="https://komarev.com/ghpvc/?username=zelhajou&style=flat&label=visitors" />
 	<img src="https://img.shields.io/github/followers/zelhajou" />
 	<img src="https://img.shields.io/github/stars/zelhajou" />
