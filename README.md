@@ -1,3 +1,6 @@
+<a href="https://read.cv/zelhajou">
+    <img align="left" alt="Gmail" width="18px" src="https://cdn.simpleicons.org/read.cv/000/fff" />
+</a>
 <a href="mailto:zelhajou@gmail.com">
     <img align="left" alt="Gmail" width="18px" src="https://cdn.simpleicons.org/gmail/000/fff" />
 </a>
