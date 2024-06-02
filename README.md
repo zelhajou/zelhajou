@@ -1,5 +1,25 @@
 
-<div align="center">
+
+<div align="left">
+
+### Hello world! 🌏
+
+</div>
+
+<br>
+
+<div align="left">
+
+| <img src="https://github-readme-stats.vercel.app/api?username=zelhajou&show_icons=true&count_private=true&hide_border=true&&theme=transparent" align="center" style="width: 100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelhajou&layout=compact&hide_border=true&theme=transparent" align="center" style="width: 100%" /> |
+|:-:|:-:|
+
+</div>
+
+<br>
+
+Feel free to reach out to me if you have any questions, suggestions, or just want to chat!
+
+<div align="left">
 
 <a href="https://read.cv/zelhajou">
     <img align="left" alt="Gmail" width="18px" src="https://cdn.simpleicons.org/read.cv/000/fff" />
@@ -45,24 +65,3 @@
 </a> -->
  
 </div>
-
-<br>
-
-<div align="center">
-
-### Hello world! 🌏
-
-</div>
-
-<br>
-
-<div align="center">
-
-| <img src="https://github-readme-stats.vercel.app/api?username=zelhajou&show_icons=true&count_private=true&hide_border=true&&theme=transparent" align="center" style="width: 100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelhajou&layout=compact&hide_border=true&theme=transparent" align="center" style="width: 100%" /> |
-|:-:|:-:|
-
-</div>
-
-
-
-
