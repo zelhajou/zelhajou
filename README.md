@@ -2,7 +2,7 @@
 
 <div align="left">
 
-### Hello world! 🌏
+# Hello world! 🌏
 
 </div>
 
@@ -19,10 +19,13 @@
 
 ------
 
-<div align="left">
-	
-<p>Feel free to reach out to me if you have any questions, suggestions, or just want to chat!</p>
+### Let's Connect!
 
+<div align="left">
+
+<!--
+<p>Feel free to reach out to me if you have any questions, suggestions, or just want to chat!</p>
+-->
   <a href="https://read.cv/zelhajou">
     <img
       align="left"
