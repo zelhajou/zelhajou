@@ -104,9 +104,19 @@
       src="https://cdn.simpleicons.org/spotify/000/fff"
     />
   </a>
-  <!-- <a href="https://www.soundcloud.com/aaaikrz">
+<a href="https://www.soundcloud.com/aaaikrz">
     <img align="left" alt="Soundcloud" width="18px" src="https://cdn.simpleicons.org/soundcloud/000/fff" />
-</a> -->
+</a>
+
+  <a href="https://boxd.it/96s8V">
+    <img
+      align="left"
+      alt="Spotify"
+      width="18px"
+      src="https://cdn.simpleicons.org/letterboxd/000/fff"
+    />
+  </a>
+
 </div>
 
 
