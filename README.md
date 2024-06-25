@@ -82,7 +82,7 @@
       src="https://cdn.simpleicons.org/instagram/000/fff"
     />
   </a>
-  <!-- <a href="https://www.snapchat.com/add/aaaikrz">
+ <a href="https://www.snapchat.com/add/aaaikrz">
     <img align="left" alt="Snapchat" width="18px" src="https://cdn.simpleicons.org/snapchat/000/fff" />
 </a>	
  <a href="https://www.youtube.com/channel/UCWc0bGsAyEes36f7uggxmUQ">
@@ -93,7 +93,7 @@
 </a>
 <a href="https://www.twitch.tv/aaaikrz">
 	<img align="left" alt="Twitch" width="18px" src="https://cdn.simpleicons.org/twitch/000/fff" /> 
-</a> -->
+</a>
   <a
     href="https://open.spotify.com/user/oiqrdfwv1zk5cq322d5r9ey7m?si=05c72a19cd994cd7"
   >
