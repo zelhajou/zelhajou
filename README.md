@@ -91,7 +91,7 @@
  <a href="https://www.youtube.com/channel/UCWc0bGsAyEes36f7uggxmUQ">
     <img align="left" alt="Youtube" width="18px" src="https://cdn.simpleicons.org/youtube/000/fff" />
 </a>
-<a href="https://www.tiktok.com/@aaaikrz_">
+<a href="https://www.tiktok.com/@4441krz">
 	<img align="left" alt="Tiktok" width="18px" src="https://cdn.simpleicons.org/tiktok/000/fff" />
 </a>
 <a href="https://www.twitch.tv/aaaikrz">
