@@ -53,7 +53,7 @@
       src="https://cdn.simpleicons.org/linkedin/000/fff"
     />
   </a>
-  <a href="https://twitter.com/aaaikrz">
+  <a href="https://twitter.com/zelhajou">
     <img
       align="left"
       alt="Twitter"
