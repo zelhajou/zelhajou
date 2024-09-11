@@ -15,7 +15,7 @@
 </pre>
 
 
-<pre>
+<pre align="left">
 Open for collaboration and new connections! Let's innovate together. 💡 
 </pre>
 
@@ -30,7 +30,8 @@ Curious about my projects? Want to collaborate? Or just chat? Don't be shy - dro
      <img
        align="left"
        alt="Gmail"
-       width="18px"
+       width="14px"
+      height="14px"
        src="https://cdn.simpleicons.org/gmail/000/fff"
      />
    </a>
@@ -41,7 +42,8 @@ Curious about my projects? Want to collaborate? Or just chat? Don't be shy - dro
      <img
        align="left"
        alt="Linkedin"
-       width="18px"
+       width="14px"
+      height="14px"
        src="https://cdn.simpleicons.org/linkedin/000/fff"
      />
    </a>
@@ -49,7 +51,8 @@ Curious about my projects? Want to collaborate? Or just chat? Don't be shy - dro
      <img
        align="left"
        alt="Twitter"
-       width="18px"
+       width="14px"
+      height="14px"
        src="https://cdn.simpleicons.org/x/000/fff"
      />
    </a>
@@ -57,7 +60,8 @@ Curious about my projects? Want to collaborate? Or just chat? Don't be shy - dro
      <img
        align="left"
        alt="Discord"
-       width="18px"
+       width="14px
+       height="14px"
        src="https://cdn.simpleicons.org/discord/000/fff"
      />
    </a>
@@ -65,7 +69,8 @@ Curious about my projects? Want to collaborate? Or just chat? Don't be shy - dro
      <img
        align="left"
        alt="Telegram"
-       width="18px"
+       width="14px"
+      height="14px"
        src="https://cdn.simpleicons.org/telegram/000/fff"
      />
    </a>
@@ -73,12 +78,13 @@ Curious about my projects? Want to collaborate? Or just chat? Don't be shy - dro
      <img
        align="left"
        alt="Instagram"
-       width="18px"
+       width="14px"
+      height="14px"
        src="https://cdn.simpleicons.org/instagram/000/fff"
      />
    </a>
   <a href="https://www.snapchat.com/add/aaaikrz">
-     <img align="left" alt="Snapchat" width="18px" src="https://cdn.simpleicons.org/snapchat/000/fff" />
+     <img align="left" alt="Snapchat" width="14px" src="https://cdn.simpleicons.org/snapchat/000/fff" />
  </a>	
 
 
