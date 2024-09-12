@@ -11,7 +11,6 @@
  - Diving into water - swimming is my passion! 🏊
  - Capturing moments through my camera 📸
  - Seeking adventures in nature's playground 🏞️
-
 </pre>
 
 
