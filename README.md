@@ -18,14 +18,8 @@
 Open for collaboration and new connections! Let's innovate together. 💡 
 </pre>
 
-<div align="left">
-
-<!--
-```
-Curious about my projects? Want to collaborate? Or just chat? Don't be shy - drop me a line!
-```
--->
-   <a href="mailto:zelhajou@gmail.com">
+<div>
+ <a href="mailto:zelhajou@gmail.com">
      <img
        align="left"
        alt="Gmail"
