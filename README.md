@@ -1,7 +1,8 @@
 
 <pre>
 👋 Hello, world! I'm Zakaria, a passionate Developer from Morocco.
-
+</pre>
+<pre>
 💻 What drives me:
  - Transforming ideas into functional, elegant solutions
  - Continuous learning and staying ahead of tech trends
