@@ -74,9 +74,11 @@ Open for collaboration and new connections! Let's innovate together. 💡
        src="https://cdn.simpleicons.org/instagram/000/fff"
      />
    </a>
-  <a href="https://www.snapchat.com/add/aaaikrz">
+<!--
+ <a href="https://www.snapchat.com/add/aaaikrz">
      <img align="left" alt="Snapchat" width="14px" src="https://cdn.simpleicons.org/snapchat/000/fff" />
- </a>	
+ </a>
+ -->
 </div>
 
 </blockquote>
