@@ -19,6 +19,9 @@
 Open for collaboration and new connections! Let's innovate together. 💡 
 </pre>
 
+
+<blockquote>
+ 
 <div>
  <a href="mailto:zelhajou@gmail.com">
      <img
@@ -74,6 +77,6 @@ Open for collaboration and new connections! Let's innovate together. 💡
   <a href="https://www.snapchat.com/add/aaaikrz">
      <img align="left" alt="Snapchat" width="14px" src="https://cdn.simpleicons.org/snapchat/000/fff" />
  </a>	
-
-
 </div>
+
+</blockquote>
