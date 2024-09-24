@@ -10,7 +10,7 @@
 </pre>
 
 <pre>
-🚀 Current focus:
+🎯 Current focus:
  - Advancing expertise at 42 Network
    └─ 🔗 <a href="https://github.com/zelhajou/42cursus">Explore my 42 projects</a>
  - Architecting robust, scalable systems from the ground up
