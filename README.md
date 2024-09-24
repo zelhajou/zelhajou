@@ -1,3 +1,6 @@
+![IMG_0077](https://github.com/user-attachments/assets/8f481b10-39b9-4a0a-bd4f-21a36e90de52)
+
+
 <pre>
 <b>👋 Ahlan! I'm Zakaria, a developer from the sunny shores of Morocco 🇲🇦 </b>
 </pre>
