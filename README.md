@@ -1,5 +1,4 @@
 
-
 <pre>
 <b>👋 Ahlan! I'm Zakaria, a developer from the sunny shores of Morocco 🇲🇦 </b>
 </pre>
@@ -14,7 +13,7 @@
 <pre>
 🚀 <b>What I'm up to these days</b>:
  - Taking on challenges at 42 Network (it's a wild ride!)
-   └─ 🔗 <a href="https://github.com/zelhajou/42cursus">Peek at my 42 adventures if you're curious</a>
+   └─ 🔗 <a href="https://github.com/zelhajou/42cursus">Peek at my 42 adventures if you're curious</a> 
  - Building big, robust systems from scratch
  - Experimenting with web tech possibilities
 </pre>
@@ -29,6 +28,13 @@
 <pre align="left">
 💡 Always up for a collab or just a good tech chat! Got an idea? Let's make it happen!
 </pre>
+
+<!--
+<pre>
+<a href="mailto:zelhajou@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/zelhajou/">LinkedIn</a> | <a href="https://twitter.com/zelhajou">Twitter</a> | <a href="https://discord.com/users/aaaikrz">Discord</a> | <a href="https://t.me/aaaikrz">Telegram</a> | <a href="https://www.instagram.com/aaaikrz/">Instagram</a>
+</pre>
+-->
+
 </div>
 <blockquote>
 <div>
