@@ -7,13 +7,20 @@
  - Transforming ideas into functional, elegant solutions
  - Continuous learning and staying ahead of tech trends
  - Building bridges between technology and real-world impact
+ 
+🚀 Currently:
+   ┌─────────────────────────────────────────┐
+   │ Advancing expertise at 42 Network       │
+   │ ↳ Focusing on:                          │
+   │   • Innovative software solutions       │
+   │   • Emerging technologies               │
+   └─────────────────────────────────────────┘
 
 🌊 When I'm not diving into code, you'll find me:
  - Diving into water - swimming is my passion! 🏊
  - Capturing moments through my camera 📸
  - Seeking adventures in nature's playground 🏞️
 </pre>
-
 
 <pre align="left">
 Open for collaboration and new connections! Let's innovate together. 💡 
