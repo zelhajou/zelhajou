@@ -1,21 +1,23 @@
-
 <pre>
 👋 Hello, world! I'm Zakaria, a passionate Developer from Morocco.
 </pre>
+
 <pre>
 💻 What drives me:
  - Transforming ideas into functional, elegant solutions
  - Continuous learning and staying ahead of tech trends
  - Building bridges between technology and real-world impact
- 
-🚀 Currently:
-   ┌─────────────────────────────────────────┐
-   │ Advancing expertise at 42 Network       │
-   │ ↳ Focusing on:                          │
-   │   • Innovative software solutions       │
-   │   • Emerging technologies               │
-   └─────────────────────────────────────────┘
+</pre>
 
+<pre>
+🚀 Current focus:
+ - Advancing expertise at 42 Network
+   └─ 🔗 <a href="https://github.com/zelhajou/42cursus">Explore my 42 projects</a>
+ - Architecting robust, scalable systems from the ground up
+ - Pushing the boundaries of web technologies and user experience
+</pre>
+
+<pre>
 🌊 When I'm not diving into code, you'll find me:
  - Diving into water - swimming is my passion! 🏊
  - Capturing moments through my camera 📸
@@ -26,9 +28,7 @@
 Open for collaboration and new connections! Let's innovate together. 💡 
 </pre>
 
-
 <blockquote>
- 
 <div>
  <a href="mailto:zelhajou@gmail.com">
      <img
@@ -38,9 +38,6 @@ Open for collaboration and new connections! Let's innovate together. 💡
        src="https://cdn.simpleicons.org/gmail/000/fff"
      />
    </a>
-   <!-- <a href="https://www.github.com/zelhajou">
-     <img align="left" alt="Github" width="18px" src="https://cdn.simpleicons.org/github/000/fff" />
- </a> -->
    <a href="https://www.linkedin.com/in/zelhajou/">
      <img
        align="left"
@@ -81,11 +78,5 @@ Open for collaboration and new connections! Let's innovate together. 💡
        src="https://cdn.simpleicons.org/instagram/000/fff"
      />
    </a>
-<!--
- <a href="https://www.snapchat.com/add/aaaikrz">
-     <img align="left" alt="Snapchat" width="14px" src="https://cdn.simpleicons.org/snapchat/000/fff" />
- </a>
- -->
 </div>
-
 </blockquote>
