@@ -1,5 +1,4 @@
-![IMG_0077 (1)](https://github.com/user-attachments/assets/d0f2ddd5-8c30-44ff-886a-3fd96e7939da)
----
+
 
 <pre>
 <b>👋 Ahlan! I'm Zakaria, a developer from the sunny shores of Morocco 🇲🇦 </b>
@@ -85,5 +84,9 @@
 </blockquote>
 </di>
 <br>
+
+<hr>
+
+![IMG_0077 (1)](https://github.com/user-attachments/assets/d0f2ddd5-8c30-44ff-886a-3fd96e7939da)
 
 
