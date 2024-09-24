@@ -1,4 +1,3 @@
-![IMG_0077 (1)](https://github.com/user-attachments/assets/d0f2ddd5-8c30-44ff-886a-3fd96e7939da)
 
 
 <pre>
@@ -30,7 +29,7 @@
 <pre align="left">
 💡 Always up for a collab or just a good tech chat! Got an idea? Let's make it happen!
 </pre>
-
+</div>
 <blockquote>
 <div>
  <a href="mailto:zelhajou@gmail.com">
@@ -83,3 +82,9 @@
    </a>
 </div>
 </blockquote>
+</di>
+<br>
+
+---
+
+![IMG_0077 (1)](https://github.com/user-attachments/assets/d0f2ddd5-8c30-44ff-886a-3fd96e7939da)
