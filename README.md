@@ -1,5 +1,5 @@
 <pre>
-👋 Hello, world! I'm Zakaria, a passionate Developer from Morocco.
+👋 Hello, world! I'm Zakaria, a passionate Developer from Morocco 🇲🇦.
 </pre>
 
 <pre>
