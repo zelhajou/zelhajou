@@ -3,7 +3,7 @@
 </pre>
 
 <pre>
-💻 <b>What drives me</b>:
+<b>🧠 What Makes My Neurons Dance:</b>
  - Creating tech solutions that make a real difference
  - Exploring new ideas across various fields
  - Connecting technology with everyday challenges
@@ -19,7 +19,7 @@
 
 <pre>
 🌊 <b>When I'm not diving into code, you'll find me</b>:
- - Diving into water - swimming is my escape! 🏊
+ - Diving into water - swimming is my superpower! 🏊
  - Snapping pics of everything and anything 📸
  - Getting lost in nature (best debugger ever) 🏞️
 </pre>
