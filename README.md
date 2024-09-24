@@ -1,16 +1,16 @@
 <pre>
-👋 Hello, world! I'm Zakaria, a passionate Developer from Morocco 🇲🇦.
+<b>👋 Hello, world! I'm Zakaria, a passionate Developer from Morocco 🇲🇦.</b>
 </pre>
 
 <pre>
-💻 What drives me:
+💻 <b>What drives me</b>:
  - Transforming ideas into functional, elegant solutions
  - Continuous learning and staying ahead of tech trends
  - Building bridges between technology and real-world impact
 </pre>
 
 <pre>
-🚀 Current focus:
+🚀 <b>Current focus</b>:
  - Advancing expertise at 42 Network
    └─ 🔗 <a href="https://github.com/zelhajou/42cursus">Explore my 42 projects</a>
  - Architecting robust, scalable systems from the ground up
@@ -18,7 +18,7 @@
 </pre>
 
 <pre>
-🌊 When I'm not diving into code, you'll find me:
+🌊 <b>When I'm not diving into code, you'll find me</b>:
  - Diving into water - swimming is my passion! 🏊
  - Capturing moments through my camera 📸
  - Seeking adventures in nature's playground 🏞️
