@@ -25,7 +25,7 @@
 </pre>
 
 <pre align="left">
-Open for collaboration and new connections! Let's innovate together. 💡 
+💡 Open for collaboration and new connections! Let's innovate together. 
 </pre>
 
 <blockquote>
