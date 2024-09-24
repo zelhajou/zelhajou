@@ -1,5 +1,5 @@
 <pre>
-<b>👋 Hey! I'm Zakaria, a developer from the sunny shores of Morocco 🇲🇦 </b>
+<b>👋 Ahlan! I'm Zakaria, a developer from the sunny shores of Morocco 🇲🇦 </b>
 </pre>
 
 <pre>
@@ -10,7 +10,7 @@
 </pre>
 
 <pre>
-🚀 <b>What I'm up to these days:<b>:
+🚀 <b>What I'm up to these days</b>:
  - Taking on challenges at 42 Network (it's a wild ride!)
    └─ 🔗 <a href="https://github.com/zelhajou/42cursus">Peek at my 42 adventures if you're curious</a>
  - Building big, robust systems from scratch
@@ -25,7 +25,7 @@
 </pre>
 
 <pre align="left">
-💡 Open for collaboration and new connections! Let's innovate together. 
+💡 Always up for a collab or just a good tech chat! Got an idea? Let's make it happen!
 </pre>
 
 <blockquote>
