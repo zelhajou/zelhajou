@@ -36,15 +36,45 @@
 -->
 
 > 📬 Ping me on:
-> [Email](mailto:zelhajou@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zelhajou/) | [Twitter](https://twitter.com/zelhajou) | [Discord](https://discord.com/users/aaaikrz) | [Telegram](https://t.me/aaaikrz) | [Instagram](https://www.instagram.com/aaaikrz/)
+> [<img
+       align="center"
+       alt="Gmail"
+       width="15px"
+       src="https://cdn.simpleicons.org/gmail/000/fff"
+     />](mailto:zelhajou@gmail.com) | [ <img
+       align="center"
+       alt="Linkedin"
+       width="15px"
+       src="https://cdn.simpleicons.org/linkedin/000/fff"
+     />](https://www.linkedin.com/in/zelhajou/) | [  <img
+       align="center"
+       alt="Twitter"
+       width="15px"
+       src="https://cdn.simpleicons.org/x/000/fff?viewbox=auto"
+     />](https://twitter.com/zelhajou) | [     <img
+       align="center"
+       alt="Discord"
+       width="15px"
+       src="https://cdn.simpleicons.org/discord/000/fff?viewbox=auto"
+     />](https://discord.com/users/aaaikrz) | [     <img
+        align="center"
+       alt="Telegram"
+       width="15px"
+       src="https://cdn.simpleicons.org/telegram/000/fff?viewbox=auto"
+     />](https://t.me/aaaikrz) | [     <img
+       align="center"
+       alt="Instagram"
+       width="15px"
+       src="https://cdn.simpleicons.org/instagram/000/fff?viewbox=auto"
+     />](https://www.instagram.com/aaaikrz/)
 
 <!--
-</div>
 <blockquote>
 <div>
- <a href="mailto:zelhajou@gmail.com">
+
+  <a href="mailto:zelhajou@gmail.com">
      <img
-       align="left"
+           align="left"
        alt="Gmail"
        width="15px"
        src="https://cdn.simpleicons.org/gmail/000/fff"
@@ -52,7 +82,7 @@
    </a>
    <a href="https://www.linkedin.com/in/zelhajou/">
      <img
-       align="left"
+                align="left"
        alt="Linkedin"
        width="15px"
        src="https://cdn.simpleicons.org/linkedin/000/fff"
@@ -60,41 +90,39 @@
    </a>
    <a href="https://twitter.com/zelhajou">
      <img
-       align="left"
+           align="left"
        alt="Twitter"
        width="15px"
-       src="https://cdn.simpleicons.org/x/000/fff"
+       src="https://cdn.simpleicons.org/x/000/fff?viewbox=auto"
      />
    </a>
    <a href="https://discord.com/users/aaaikrz">
      <img
-       align="left"
+                align="left"
        alt="Discord"
        width="15px"
-       src="https://cdn.simpleicons.org/discord/000/fff"
+       src="https://cdn.simpleicons.org/discord/000/fff?viewbox=auto"
      />
    </a>
    <a href="https://t.me/aaaikrz">
      <img
-       align="left"
+                 align="left"
        alt="Telegram"
        width="15px"
-       src="https://cdn.simpleicons.org/telegram/000/fff"
+       src="https://cdn.simpleicons.org/telegram/000/fff?viewbox=auto"
      />
    </a>
    <a href="https://www.instagram.com/aaaikrz/">
      <img
-       align="left"
+                 align="left"
        alt="Instagram"
        width="15px"
-       src="https://cdn.simpleicons.org/instagram/000/fff"
+       src="https://cdn.simpleicons.org/instagram/000/fff?viewbox=auto"
      />
    </a>
 </div>
 </blockquote>
-</di>
 -->
-
 <!--
 ![IMG_0077 (1)](https://github.com/user-attachments/assets/d0f2ddd5-8c30-44ff-886a-3fd96e7939da)
 
