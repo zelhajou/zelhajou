@@ -35,6 +35,10 @@
 </pre>
 -->
 
+> 📬 Ping me on:
+> [Email](mailto:zelhajou@gmail.com) | [LinkedIn](https://www.linkedin.com/in/zelhajou/) | [Twitter](https://twitter.com/zelhajou) | [Discord](https://discord.com/users/aaaikrz) | [Telegram](https://t.me/aaaikrz) | [Instagram](https://www.instagram.com/aaaikrz/)
+
+<!--
 </div>
 <blockquote>
 <div>
@@ -89,6 +93,7 @@
 </div>
 </blockquote>
 </di>
+-->
 
 <!--
 ![IMG_0077 (1)](https://github.com/user-attachments/assets/d0f2ddd5-8c30-44ff-886a-3fd96e7939da)
