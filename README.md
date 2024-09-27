@@ -26,8 +26,8 @@
 </pre>
 
 <pre align="left">
-<b>💡 Let’s Collaborate!</b>
-Always open for a tech chat or new ideas—let's create something great!
+💡 <b>Let’s Collaborate!</b>
+​└── Always open for a tech chat or new ideas—let's create something great!​
 </pre>
 
 <!--
