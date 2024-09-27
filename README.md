@@ -1,17 +1,17 @@
 
 <pre>
-<b>👋 Ahlan! I'm Zakaria, a developer from the sunny shores of Morocco 🇲🇦 </b>
+<b>👋 Hey! I'm Zakaria, a developer from the sunny shores of Morocco 🇲🇦</b>
 </pre>
 
 <pre>
-<b>🧠 What Makes My Neurons Dance:</b>
+🧠 <b>My Interests</b>
  - Creating tech solutions that make a real difference
  - Exploring new ideas across various fields
  - Connecting technology with everyday challenges
 </pre>
 
 <pre>
-🚀 <b>What I'm up to these days</b>:
+🚀 <b>What I’m Up To</b>
  - Taking on challenges at 42 Network (it's a wild ride!)
    └─ 🔗 <a href="https://github.com/zelhajou/42cursus">Peek at my 42 adventures if you're curious</a> 
  - Building big, robust systems from scratch
@@ -19,8 +19,8 @@
 </pre>
 
 <pre>
-🌊 <b>When I'm not diving into code, you'll find me</b>:
- - Diving into water - swimming is my superpower! 🏊
+🌊 <b>Away from the Screen</b>
+ - Swimming is my superpower and reset button! 🏊
  - Snapping pics of everything and anything 📸
  - Getting lost in nature (best debugger ever) 🏞️
 </pre>
