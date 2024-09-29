@@ -68,6 +68,14 @@
        src="https://cdn.simpleicons.org/instagram/000/fff?viewbox=auto"
      />](https://www.instagram.com/aaaikrz/)
 
+
+<br>
+<div align="center">
+<sup>
+“قصتي زي حكايتي مستعجل بس بتدرج.” - شب جديد
+</sup>
+</div>
+
 <!--
 <blockquote>
 <div>
