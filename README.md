@@ -4,7 +4,7 @@
 </pre>
 
 <pre>
-🧠 <b>My Interests</b>
+🎯 <b>My Interests</b>
 ├── Creating tech solutions that make a real difference
 ├── Exploring new ideas across various fields
 └── Connecting technology with everyday challenges
