@@ -69,13 +69,13 @@
        src="https://cdn.simpleicons.org/instagram/000/fff?viewbox=auto"
      />](https://www.instagram.com/aaaikrz/)
 
-
+<!--
 <br>
 <div align="center">
 
 <q>مستعجل بس بتدرج - شب جديد</q> 
 </div>
-
+-->
 <!--
 <blockquote>
 <div>
