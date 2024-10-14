@@ -32,10 +32,12 @@
 > 
 
 
-> 📬 Ping me on: <a href="mailto:zelhajou@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/zelhajou/">LinkedIn</a> | <a href="https://x.com/zelhajou">X</a> | <a href="https://discord.com/users/aaaikrz">Discord</a> | <a href="https://t.me/aaaikrz">Telegram</a> | <a href="https://www.instagram.com/aaaikrz/">Instagram</a>
+> 📬 Ping me on: <a href="mailto:zelhajou@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/zelhajou/">LinkedIn</a> | <a href="https://x.com/zelhajou">X</a> | <a href="https://discord.com/users/aaaikrz">Discord</a> | <a href="https://www.instagram.com/aaaikrz/">Instagram</a>
 </pre>
 
 <!--
+
+| <a href="https://t.me/aaaikrz">Telegram</a>
 
 > [<img
        align="center"
