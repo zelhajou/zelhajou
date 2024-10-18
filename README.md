@@ -7,26 +7,26 @@
 <b>🎯 My Interests</b>  
 <pre>
 
-<b>🛠️ Building Solutions:</b>
+🛠️ Building Solutions:
 Turning complex problems into effective tech solutions.
 
-<b>💡 Exploring Innovation:</b>
+💡 Exploring Innovation:
 Looking for fresh ideas and challenging the norm.
 
-<b>🌍 Real-World Tech:</b>
+🌍 Real-World Tech:
 Bringing technology into everyday life to solve real challenges.
 </pre>
 
 <b>🚀 What I’m Up To</b>
 <pre>
-🖥 <b>42 Network Adventures:</b>
+🖥 42 Network Adventures:
 Navigating the exciting challenges at 42. (it's a wild ride!)
 └── 🔗 <i><a href="https://github.com/zelhajou/42cursus">Explore my journey here</a></i>
 
-🏗️ <b>System Design:</b>
+🏗️ System Design:
 Creating robust, large-scale systems from the ground up.
 
-🌐 <b>Web Tech Exploration:</b>
+🌐 Web Tech Exploration:
 Experimenting with the possibilities of modern web technologies.
 </pre>
 
@@ -95,7 +95,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/10/2024 18:51:41 UTC
+ Last Updated on 18/10/2024 18:50:38 UTC
 <!--END_SECTION:waka-->
 
 
