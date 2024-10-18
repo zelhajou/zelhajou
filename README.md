@@ -71,10 +71,10 @@ Experimenting with the possibilities of modern web technologies.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                405 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-🌆 Daytime                1277 commits        ████████████░░░░░░░░░░░░░   48.83 % 
-🌃 Evening                806 commits         ████████░░░░░░░░░░░░░░░░░   30.82 % 
-🌙 Night                  127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+🌞 Morning                405 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+🌆 Daytime                1277 commits        ████████████░░░░░░░░░░░░░   48.81 % 
+🌃 Evening                807 commits         ████████░░░░░░░░░░░░░░░░░   30.85 % 
+🌙 Night                  127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 ```
 
 
@@ -85,9 +85,6 @@ Experimenting with the possibilities of modern web technologies.
 No Activity Tracked This Week
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 💻 Operating System: 
