@@ -5,11 +5,15 @@
 </pre>
 
 <b>🎯 My Interests</b>  
-```
-📂 Creating tech solutions that make a real difference
-📂 Exploring new ideas across various fields
-📂 Connecting technology with everyday challenges
-```
+<pre>
+
+<b>🛠️ Building Solutions:</b>
+    <i>Turning complex problems into effective tech solutions.</i>
+<b>💡 Exploring Innovation:</b>
+    <i>Looking for fresh ideas and challenging the norm.</i>
+<b>🌍 Real-World Tech:</b>
+    <i>Bringing technology into everyday life to solve real challenges.</i>
+</pre>
 
 <b>🚀 What I’m Up To</b>
 <pre>
@@ -75,7 +79,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/10/2024 17:03:35 UTC
+ Last Updated on 18/10/2024 16:49:40 UTC
 <!--END_SECTION:waka-->
 
 
