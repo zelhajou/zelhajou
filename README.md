@@ -4,14 +4,14 @@
 <h3>👋 Hey! I'm Zakaria, a developer from the sunny shores of Morocco 🇲🇦</h>
 </pre>
 
-**My Interests 🎯**
+<b>🎯 My Interests</b>
 <pre>
 ├── Creating tech solutions that make a real difference
 ├── Exploring new ideas across various fields
 └── Connecting technology with everyday challenges
 </pre>
 
-<b>What I’m Up To</b> 🚀 
+<b>🚀 What I’m Up To</b> 
 <pre>
 ├── Taking on challenges at 42 Network (it's a wild ride!)
 │   └── 🔗 <a href="https://github.com/zelhajou/42cursus">Peek at my 42 adventures if you're curious</a> 
@@ -19,21 +19,23 @@
 └── Experimenting with web tech possibilities
 </pre>
 
-<b>Away from the Screen</b> 🌊
+<b>🌊 Away from the Screen</b> 
 <pre>
-├── Swimming is my superpower and reset button! 🏊
-├── Snapping pics of everything and anything 📸
-└── Getting lost in nature (best debugger ever) 🏞️
+🏊 Swimming is my superpower and reset button! 
+📸 Snapping pics of everything and anything 
+🏞️ Getting lost in nature (best debugger ever) 
 </pre>
+
+
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                405 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-🌆 Daytime                1269 commits        ████████████░░░░░░░░░░░░░   49.00 % 
-🌃 Evening                789 commits         ████████░░░░░░░░░░░░░░░░░   30.46 % 
-🌙 Night                  127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+🌆 Daytime                1268 commits        ████████████░░░░░░░░░░░░░   48.98 % 
+🌃 Evening                789 commits         ████████░░░░░░░░░░░░░░░░░   30.48 % 
+🌙 Night                  127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 ```
 
 
@@ -54,7 +56,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/10/2024 16:09:20 UTC
+ Last Updated on False UTC
 <!--END_SECTION:waka-->
 
 <pre align="left">
