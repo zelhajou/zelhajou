@@ -26,6 +26,9 @@
 └── Getting lost in nature (best debugger ever) 🏞️
 </pre>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <pre align="left">
 💡 Always up for a collab or just a good tech chat! Got an idea? Let's make it happen!
 </pre>
