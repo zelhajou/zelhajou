@@ -8,11 +8,11 @@
 <pre>
 
 <b>🛠️ Building Solutions:</b>
-    <i>Turning complex problems into effective tech solutions.</i>
+<i>Turning complex problems into effective tech solutions.</i>
 <b>💡 Exploring Innovation:</b>
-    <i>Looking for fresh ideas and challenging the norm.</i>
+<i>Looking for fresh ideas and challenging the norm.</i>
 <b>🌍 Real-World Tech:</b>
-    <i>Bringing technology into everyday life to solve real challenges.</i>
+<i>Bringing technology into everyday life to solve real challenges.</i>
 </pre>
 
 <b>🚀 What I’m Up To</b>
@@ -24,6 +24,15 @@
 </pre>
 
 <!--
+
+
+<b>🖥 42 Network Adventures:</b>
+<i>Turning complex problems into effective tech solutions.</i>
+<b>🏗️ System Design:</b>
+<i>Looking for fresh ideas and challenging the norm.</i>
+<b>🌐 Web Tech Exploration:</b>
+<i>Bringing technology into everyday life to solve real challenges.</i>
+
 <b>🎯 My Interests</b>
 <pre>
 ├── Creating tech solutions that make a real difference
@@ -79,7 +88,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/10/2024 17:10:39 UTC
+ Last Updated on 18/10/2024 17:05:10 UTC
 <!--END_SECTION:waka-->
 
 
