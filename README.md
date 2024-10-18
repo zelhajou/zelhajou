@@ -94,8 +94,6 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-
- Last Updated on 18/10/2024 19:02:16 UTC
 <!--END_SECTION:waka-->
 
 
@@ -108,7 +106,7 @@ No Activity Tracked This Week
 
 
 
-<sub>Always up for a collab or just a good tech chat! Got an idea? Let's make it happen!<sub>
+Always up for a collab or just a good tech chat! Got an idea? Let's make it happen!
 
 > 📬 Ping me on: <a href="mailto:zelhajou@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/zelhajou/">LinkedIn</a> | <a href="https://x.com/zelhajou">X</a> | <a href="https://discord.com/users/aaaikrz">Discord</a> | <a href="https://www.instagram.com/aaaikrz/">Instagram</a>
 
