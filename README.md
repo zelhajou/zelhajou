@@ -12,12 +12,13 @@
 ```
 
 <b>🚀 What I’m Up To</b>
-```
+<pre>
 📂 Taking on challenges at 42 Network (it's a wild ride!)
 │   └── 🔗 <a href="https://github.com/zelhajou/42cursus">Peek at my 42 adventures if you're curious</a> 
 📂 Building big, robust systems from scratch
 📂 Experimenting with web tech possibilities
-```
+</pre>
+
 <!--
 <b>🎯 My Interests</b>
 <pre>
