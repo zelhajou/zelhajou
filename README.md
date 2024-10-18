@@ -26,6 +26,14 @@
 └── Getting lost in nature (best debugger ever) 🏞️
 </pre>
 
+<div align="center">
+
+| <img src="https://github-readme-stats.vercel.app/api?username=zelhajou&show_icons=true&count_private=true&hide_border=true&&theme=transparent" align="center" style="width: 100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelhajou&layout=compact&hide_border=true&theme=transparent" align="center" style="width: 100%" /> |
+|:-:|:-:|
+
+</div>
+
+
 <pre align="left">
 💡 Always up for a collab or just a good tech chat! Got an idea? Let's make it happen!
 </pre>
@@ -34,6 +42,8 @@
 
 > 📬 Ping me on: <a href="mailto:zelhajou@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/zelhajou/">LinkedIn</a> | <a href="https://x.com/zelhajou">X</a> | <a href="https://discord.com/users/aaaikrz">Discord</a> | <a href="https://www.instagram.com/aaaikrz/">Instagram</a>
 </pre>
+
+
 
 <!--
 
