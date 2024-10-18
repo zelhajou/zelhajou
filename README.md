@@ -4,6 +4,21 @@
 <h3>👋 Hey! I'm Zakaria, a developer from the sunny shores of Morocco 🇲🇦</h>
 </pre>
 
+<b>🎯 My Interests</b>  
+```
+🛠 Creating tech solutions that make a real difference
+💡 Exploring new ideas across various fields
+🌍 Connecting technology with everyday challenges
+```
+
+<b>🚀 What I’m Up To</b>
+```
+📂 Taking on challenges at 42 Network (it's a wild ride!)
+│   └── 🔗 <a href="https://github.com/zelhajou/42cursus">Peek at my 42 adventures if you're curious</a>
+📂 Building big, robust systems from scratch
+📂 Experimenting with web tech possibilities
+```
+<!--
 <b>🎯 My Interests</b>
 <pre>
 ├── Creating tech solutions that make a real difference
@@ -19,6 +34,18 @@
 └── Experimenting with web tech possibilities
 </pre>
 
+- **42 Network Adventures**  
+  _Taking on challenges at 42 Network (it's a wild ride!)_  
+  🔗 [Peek at my 42 adventures](https://github.com/zelhajou/42cursus)
+
+- **Building from Scratch**  
+  _Crafting big, robust systems from the ground up_
+
+- **Web Tech Experiments**  
+  _Exploring the endless possibilities of web technologies_
+
+-->
+
 <b>🌊 Away from the Screen</b> 
 <pre>
 🏊 Swimming is my superpower and reset button! 
@@ -32,10 +59,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                405 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-🌆 Daytime                1270 commits        ████████████░░░░░░░░░░░░░   49.02 % 
-🌃 Evening                789 commits         ████████░░░░░░░░░░░░░░░░░   30.45 % 
-🌙 Night                  127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+🌞 Morning                405 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+🌆 Daytime                1268 commits        ████████████░░░░░░░░░░░░░   48.98 % 
+🌃 Evening                789 commits         ████████░░░░░░░░░░░░░░░░░   30.48 % 
+🌙 Night                  127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 ```
 
 
@@ -56,7 +83,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/10/2024 16:18:41 UTC
+ Last Updated on False UTC
 <!--END_SECTION:waka-->
 
 <pre align="left">
