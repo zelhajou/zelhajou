@@ -71,9 +71,9 @@ Experimenting with the possibilities of modern web technologies.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                405 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-🌆 Daytime                1277 commits        ████████████░░░░░░░░░░░░░   48.95 % 
-🌃 Evening                800 commits         ████████░░░░░░░░░░░░░░░░░   30.66 % 
+🌞 Morning                405 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+🌆 Daytime                1277 commits        ████████████░░░░░░░░░░░░░   48.96 % 
+🌃 Evening                799 commits         ████████░░░░░░░░░░░░░░░░░   30.64 % 
 🌙 Night                  127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 ```
 
@@ -95,7 +95,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/10/2024 18:57:22 UTC
+ Last Updated on 18/10/2024 18:53:34 UTC
 <!--END_SECTION:waka-->
 
 
@@ -107,15 +107,16 @@ No Activity Tracked This Week
 </pre>
 
 
-<pre align="left">
-Always up for a collab or just a good tech chat! Got an idea? Let's make it happen!
-</pre>
-> 
 
+<sub>Always up for a collab or just a good tech chat! Got an idea? Let's make it happen!<sub>
+
+
+<sub>
 
 > 📬 Ping me on: <a href="mailto:zelhajou@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/zelhajou/">LinkedIn</a> | <a href="https://x.com/zelhajou">X</a> | <a href="https://discord.com/users/aaaikrz">Discord</a> | <a href="https://www.instagram.com/aaaikrz/">Instagram</a>
-</pre>
 
+</pre>
+<sub>
 
 
 <!--
