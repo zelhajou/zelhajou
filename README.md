@@ -98,7 +98,7 @@ No Activity Tracked This Week
 
 
 <pre align="left">
-💡 Always up for a collab or just a good tech chat! Got an idea? Let's make it happen!
+Always up for a collab or just a good tech chat! Got an idea? Let's make it happen!
 </pre>
 > 
 
