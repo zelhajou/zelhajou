@@ -26,14 +26,6 @@
 └── Getting lost in nature (best debugger ever) 🏞️
 </pre>
 
-<div align="center">
-
-| <img src="https://github-readme-stats.vercel.app/api?username=zelhajou&show_icons=true&count_private=true&hide_border=true&&theme=transparent" align="center" style="width: 100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelhajou&layout=compact&hide_border=true&theme=transparent" align="center" style="width: 100%" /> |
-|:-:|:-:|
-
-</div>
-
-
 <pre align="left">
 💡 Always up for a collab or just a good tech chat! Got an idea? Let's make it happen!
 </pre>
