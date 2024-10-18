@@ -8,11 +8,11 @@
 <pre>
 
 <b>🛠️ Building Solutions:</b>
-<i>Turning complex problems into effective tech solutions.</i>
+Turning complex problems into effective tech solutions.
 <b>💡 Exploring Innovation:</b>
-<i>Looking for fresh ideas and challenging the norm.</i>
+Looking for fresh ideas and challenging the norm.
 <b>🌍 Real-World Tech:</b>
-<i>Bringing technology into everyday life to solve real challenges.</i>
+Bringing technology into everyday life to solve real challenges.
 </pre>
 
 <b>🚀 What I’m Up To</b>
