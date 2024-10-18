@@ -47,15 +47,6 @@
 
 -->
 
-<b>🌊 Away from the Screen</b> 
-<pre>
-🏊 Swimming is my superpower and reset button! 
-📸 Snapping pics of everything and anything 
-🏞️ Getting lost in nature (best debugger ever) 
-</pre>
-
-
-
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -86,6 +77,15 @@ No Activity Tracked This Week
 
  Last Updated on 18/10/2024 16:48:01 UTC
 <!--END_SECTION:waka-->
+
+
+<b>🌊 Away from the Screen</b> 
+<pre>
+🏊 Swimming is my superpower and reset button! 
+📸 Snapping pics of everything and anything 
+🏞️ Getting lost in nature (best debugger ever) 
+</pre>
+
 
 <pre align="left">
 💡 Always up for a collab or just a good tech chat! Got an idea? Let's make it happen!
