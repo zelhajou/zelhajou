@@ -7,17 +7,27 @@
 <b>🎯 My Interests</b>  
 <pre>
 
-<b>🛠️ Building Solutions:</b> Turning complex problems into effective tech solutions.
-<b>💡 Exploring Innovation:</b> Looking for fresh ideas and challenging the norm.
-<b>🌍 Real-World Tech:</b> Bringing technology into everyday life to solve real challenges.
+<b>🛠️ Building Solutions:</b>
+Turning complex problems into effective tech solutions.
+
+<b>💡 Exploring Innovation:</b>
+Looking for fresh ideas and challenging the norm.
+
+<b>🌍 Real-World Tech:</b>
+Bringing technology into everyday life to solve real challenges.
 </pre>
 
 <b>🚀 What I’m Up To</b>
 <pre>
-🖥 <b>42 Network Adventures:</b> Navigating the exciting challenges at 42. (it's a wild ride!)
-   └── 🔗 <a href="https://github.com/zelhajou/42cursus">Explore my journey here</a> 
-🏗️ <b>System Design:</b> Creating robust, large-scale systems from the ground up.
-🌐 <b>Web Tech Exploration:</b> Experimenting with the possibilities of modern web technologies.
+🖥 <b>42 Network Adventures:</b>
+Navigating the exciting challenges at 42. (it's a wild ride!)
+└── 🔗 <i><a href="https://github.com/zelhajou/42cursus">Explore my journey here</a></i>
+
+🏗️ <b>System Design:</b>
+Creating robust, large-scale systems from the ground up.
+
+🌐 <b>Web Tech Exploration:</b>
+Experimenting with the possibilities of modern web technologies.
 </pre>
 
 <!--
@@ -61,10 +71,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                405 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-🌆 Daytime                1277 commits        ████████████░░░░░░░░░░░░░   49.00 % 
-🌃 Evening                797 commits         ████████░░░░░░░░░░░░░░░░░   30.58 % 
-🌙 Night                  127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+🌞 Morning                405 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+🌆 Daytime                1277 commits        ████████████░░░░░░░░░░░░░   49.04 % 
+🌃 Evening                795 commits         ████████░░░░░░░░░░░░░░░░░   30.53 % 
+🌙 Night                  127 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 ```
 
 
@@ -85,7 +95,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/10/2024 18:48:28 UTC
+ Last Updated on 18/10/2024 18:44:34 UTC
 <!--END_SECTION:waka-->
 
 
