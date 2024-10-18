@@ -13,10 +13,10 @@
 
 <b>🚀 What I’m Up To</b>
 <pre>
-📂 Taking on challenges at 42 Network (it's a wild ride!)
-│   └── 🔗 <a href="https://github.com/zelhajou/42cursus">Peek at my 42 adventures if you're curious</a> 
-📂 Building big, robust systems from scratch
-📂 Experimenting with web tech possibilities
+📂 Navigating the exciting challenges at 42 The Network (it's a wild ride!)
+│   └── 🔗 <a href="https://github.com/zelhajou/42cursus">Explore my journey here</a> 
+📂 Creating robust, large-scale systems from the ground up
+📂 Experimenting with the possibilities of modern web technologies
 </pre>
 
 <!--
@@ -84,7 +84,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 18/10/2024 16:46:05 UTC
+ Last Updated on 18/10/2024 16:45:03 UTC
 <!--END_SECTION:waka-->
 
 <pre align="left">
