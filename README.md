@@ -27,20 +27,6 @@
 </pre>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 3.9 MB Used in GitHub's Storage 
- > 
-> 🏆 1,323 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 16 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -71,6 +57,9 @@ No Activity Tracked This Week
 🔥 Editors: 
 No Activity Tracked This Week
 
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
 💻 Operating System: 
 No Activity Tracked This Week
 ```
@@ -88,7 +77,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2024 15:50:39 UTC
+ Last Updated on False UTC
 <!--END_SECTION:waka-->
 
 <pre align="left">
