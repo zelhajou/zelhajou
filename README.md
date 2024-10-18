@@ -6,9 +6,9 @@
 
 <b>🎯 My Interests</b>  
 ```
-🛠 Creating tech solutions that make a real difference
-💡 Exploring new ideas across various fields
-🌍 Connecting technology with everyday challenges
+📂 Creating tech solutions that make a real difference
+📂 Exploring new ideas across various fields
+📂 Connecting technology with everyday challenges
 ```
 
 <b>🚀 What I’m Up To</b>
