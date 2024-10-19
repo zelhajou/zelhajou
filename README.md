@@ -82,10 +82,10 @@ Experimenting with the possibilities of modern web technologies.
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+42cursus-inception       29 mins             █████████████████████████   100.00 % 
 ```
 
 
