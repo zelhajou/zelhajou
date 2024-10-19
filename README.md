@@ -82,11 +82,10 @@ Experimenting with the possibilities of modern web technologies.
 
 ```text
 💬 Programming Languages: 
-Other                    7 mins              ██████████████████░░░░░░░   73.11 % 
-Markdown                 2 mins              ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-zelhajou                 10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
