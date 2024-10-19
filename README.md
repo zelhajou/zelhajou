@@ -68,42 +68,6 @@ Experimenting with the possibilities of modern web technologies.
 -->
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                382 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-🌆 Daytime                1158 commits        ████████████░░░░░░░░░░░░░   49.34 % 
-🌃 Evening                711 commits         ████████░░░░░░░░░░░░░░░░░   30.29 % 
-🌙 Night                  96 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in C** 
-
-```text
-Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-```
-
-
-
-
 <!--END_SECTION:waka-->
 
 
