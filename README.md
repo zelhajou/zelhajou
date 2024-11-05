@@ -1,7 +1,7 @@
 
 <pre align="center">
 
-<h3>👋 Hey! I'm Zakaria, a developer from the sunny shores of Morocco 🇲🇦</h>
+<h3>👋 Hey! I'm Zakaria, a developer from the sunny shores of Morocco 🇲🇦</h3>
 </pre>
 
 <b>🎯 My Interests</b>  
