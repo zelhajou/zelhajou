@@ -1,7 +1,8 @@
 
-<pre align="center">
-<h3>Hi, I'm Zakaria 👋</h3>
-</pre>
+
+<h2>Hi, I'm Zakaria 👋</h2>
+
+<br>
 
 <b>🎯 My Interests</b>  
 <pre>
