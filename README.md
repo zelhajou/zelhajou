@@ -1,8 +1,5 @@
+<h1 align="center">Hi 👋, I'm Zakaria</h1>
 
-
-<h2>Hi, I'm Zakaria 👋</h2>
-
-<br>
 
 <b>🎯 My Interests</b>  
 <pre>
