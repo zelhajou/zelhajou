@@ -1,6 +1,5 @@
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=1987FF&duration=4000&lines=Hi+There!+👋;+I'm+Zakaria+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&weight=800&center=true&vCenter=true&width=850&height=90&color=1E90FF&duration=2500&lines=👋+Hello,+World!;+I'm+Zakaria+Elhajoui!;+💻+Crafting+Tech+With+Purpose!;">
 </h1>
 
 
