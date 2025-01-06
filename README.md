@@ -12,7 +12,7 @@
 <h3>🚀 What I’m Up To</h3>
 <pre>
 ├── 🖥 <b>42 Network Adventures:</b> Navigating the exciting challenges at 42. (it's a wild ride!)
-│   └── 🔗 <i><a href="https://github.com/zelhajou/42cursus">Explore my journey here</a></i>
+│   └── <i><a href="https://github.com/zelhajou/42cursus">🔗 Explore my journey here</a></i>
 ├── 🏗️ <b>System Design:</b> Creating robust, large-scale systems from the ground up.
 └── 🌐 <b>Web Tech Exploration:</b> Experimenting with the possibilities of modern web technologies.
 </pre>
@@ -56,7 +56,7 @@
 <h3>🌊 Away from the Screen</h3> 
 <pre>
 ├── 🏊 <b>Swimming:</b> My ultimate reset button.
-├── 📸 <b>Photography:</b> Capturing the beauty around me. <i><a href="https://www.instagram.com/aaaikrz/">Follow my shots</a></i>
+├── 📸 <b>Photography:</b> Capturing the beauty around me. <i><a href="https://www.instagram.com/aaaikrz/">🔗 Follow my shots</a></i>
 └── 🏞️ <b>Nature:</b> The best source of inspiration and reflection.
 </pre>
 
