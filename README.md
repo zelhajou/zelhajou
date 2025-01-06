@@ -2,15 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&weight=800&center=true&vCenter=true&width=850&height=90&color=1E90FF&duration=2500&lines=👋+Hello,+World!;+I'm+Zakaria+Elhajoui!;+💻+Crafting+Tech+With+Purpose!;">
 </h1>
 
-<b>🎯 My Interests</b>  
-<pre>
 
-<b>├── 🛠️ Building Solutions:</b> Turning complex problems into effective tech solutions.
-<b>├── 💡 Exploring Innovation:</b> Looking for fresh ideas and challenging the norm.
-<b>└── 🌍 Real-World Tech:</b> Bringing technology into everyday life to solve real challenges.
+<h3>🎯 My Interests</h3>  
+<pre>
+├── 🛠️ <b>Building Solutions:</b> Turning complex problems into effective tech solutions.
+├── 💡 <b>Innovate:</b> Constantly exploring new technologies and creative ideas.
+└── 🌍 <b>Make Impact:</b> Using tech to solve real-world problems and improve lives.
 </pre>
 
-<b>🚀 What I’m Up To</b>
+<h3>🚀 What I’m Up To</h3>
 <pre>
 ├── 🖥 <b>42 Network Adventures:</b> Navigating the exciting challenges at 42. (it's a wild ride!)
 │   └── 🔗 <i><a href="https://github.com/zelhajou/42cursus">Explore my journey here</a></i>
@@ -55,12 +55,11 @@
 
 -->
 
-
-<b>🌊 Away from the Screen</b> 
+<h3>🌊 Away from the Screen</h3> 
 <pre>
-├── 🏊 Swimming is my superpower and reset button! 
-├── 📸 Snapping pics of everything and anything – take a look on <a href="https://www.instagram.com/aaaikrz/">Instagram</a>!
-└── 🏞️ Getting lost in nature (best debugger ever) 
+├── 🏊 <b>Swimming:</b> My ultimate reset button.
+├── 📸 <b>Photography:</b> Capturing the beauty around me. <a href="https://www.instagram.com/aaaikrz/">Follow my shots</a>
+└── 🏞️ <b>Nature:</b> The best source of inspiration and reflection.
 </pre>
 
 # 
