@@ -2,7 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&weight=800&center=true&vCenter=true&width=850&height=90&color=1E90FF&duration=2500&lines=👋+Hello,+World!;+I'm+Zakaria+Elhajoui!;+💻+Crafting+Tech+With+Purpose!;">
 </h1>
 
-
 <b>🎯 My Interests</b>  
 <pre>
 
