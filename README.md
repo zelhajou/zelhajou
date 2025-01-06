@@ -63,17 +63,11 @@
 
 # 
 
-> 📬 Ping me on: <a href="mailto:zelhajou@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/zelhajou/">LinkedIn</a> | <a href="https://x.com/zelhajou">X</a> | <a href="https://discord.com/users/aaaikrz">Discord</a>
-
-
-
-
-
 <!--
+> 📬 Ping me on: <a href="mailto:zelhajou@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/zelhajou/">LinkedIn</a> | <a href="https://x.com/zelhajou">X</a> | <a href="https://discord.com/users/aaaikrz">Discord</a>
+-->
 
-| <a href="https://t.me/aaaikrz">Telegram</a>
-
-> [<img
+> 📬 Ping me on: [<img
        align="center"
        alt="Gmail"
        width="15px"
@@ -93,18 +87,7 @@
        alt="Discord"
        width="15px"
        src="https://cdn.simpleicons.org/discord/000/fff?viewbox=auto"
-     />](https://discord.com/users/aaaikrz) | [     <img
-        align="center"
-       alt="Telegram"
-       width="15px"
-       src="https://cdn.simpleicons.org/telegram/000/fff?viewbox=auto"
-     />](https://t.me/aaaikrz) | [     <img
-       align="center"
-       alt="Instagram"
-       width="15px"
-       src="https://cdn.simpleicons.org/instagram/000/fff?viewbox=auto"
-     />](https://www.instagram.com/aaaikrz/)
--->
+     />](https://discord.com/users/aaaikrz) 
 <!--
 <br>
 <div align="center">
