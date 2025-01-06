@@ -58,7 +58,7 @@
 <h3>🌊 Away from the Screen</h3> 
 <pre>
 ├── 🏊 <b>Swimming:</b> My ultimate reset button.
-├── 📸 <b>Photography:</b> Capturing the beauty around me. <a href="https://www.instagram.com/aaaikrz/">Follow my shots</a>
+├── 📸 <b>Photography:</b> Capturing the beauty around me. <i><a href="https://www.instagram.com/aaaikrz/">Follow my shots</a></i>
 └── 🏞️ <b>Nature:</b> The best source of inspiration and reflection.
 </pre>
 
