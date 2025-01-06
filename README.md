@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Zakaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=1987FF&duration=4000&lines=Hi+There!+👋;+I'm+Zakaria+!;" />
+</h1>
 
 
 <b>🎯 My Interests</b>  
