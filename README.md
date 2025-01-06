@@ -87,7 +87,7 @@
        alt="Discord"
        width="15px"
        src="https://cdn.simpleicons.org/discord/000/fff?viewbox=auto"
-     />](https://discord.com/users/aaaikrz) 
+     />](https://discord.com/users/zelhajou) 
 <!--
 <br>
 <div align="center">
