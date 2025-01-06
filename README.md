@@ -2,7 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&weight=800&center=true&vCenter=true&width=850&height=90&color=1E90FF&duration=2500&lines=👋+Hello,+World!;+I'm+Zakaria+Elhajoui!;+💻+Crafting+Tech+With+Purpose!;">
 </h1>
 
-
 <h3>🎯 My Interests</h3>  
 <pre>
 ├── 🛠️ <b>Building Solutions:</b> Turning complex problems into effective tech solutions.
@@ -19,7 +18,6 @@
 </pre>
 
 <!--
-
 
 <b>🖥 42 Network Adventures:</b>
 <i>Turning complex problems into effective tech solutions.</i>
@@ -61,6 +59,7 @@
 ├── 📸 <b>Photography:</b> Capturing the beauty around me. <i><a href="https://www.instagram.com/aaaikrz/">Follow my shots</a></i>
 └── 🏞️ <b>Nature:</b> The best source of inspiration and reflection.
 </pre>
+
 
 # 
 
