@@ -70,22 +70,22 @@
 > 📬 Ping me on: [<img
        align="center"
        alt="Gmail"
-       width="15px"
+       width="16px"
        src="https://cdn.simpleicons.org/gmail/000/fff"
-     />](mailto:zelhajou@gmail.com) | [ <img
+     />](mailto:zelhajou@gmail.com) | [<img
        align="center"
        alt="Linkedin"
-       width="15px"
+       width="16px"
        src="https://cdn.simpleicons.org/linkedin/000/fff"
-     />](https://www.linkedin.com/in/zelhajou/) | [  <img
+     />](https://www.linkedin.com/in/zelhajou/) | [<img
        align="center"
        alt="Twitter"
-       width="15px"
+       width="16px"
        src="https://cdn.simpleicons.org/x/000/fff?viewbox=auto"
-     />](https://twitter.com/zelhajou) | [     <img
+     />](https://twitter.com/zelhajou) | [<img
        align="center"
        alt="Discord"
-       width="15px"
+       width="16px"
        src="https://cdn.simpleicons.org/discord/000/fff?viewbox=auto"
      />](https://discord.com/users/zelhajou) 
 <!--
