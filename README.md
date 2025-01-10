@@ -63,10 +63,10 @@
 
 # 
 
-<!--
-> 📬 Ping me on: <a href="mailto:zelhajou@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/zelhajou/">LinkedIn</a> | <a href="https://x.com/zelhajou">X</a> | <a href="https://discord.com/users/aaaikrz">Discord</a>
--->
 
+> 📬 Ping me on: <a href="mailto:zelhajou@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/zelhajou/">LinkedIn</a> | <a href="https://x.com/zelhajou">X</a> | <a href="https://discord.com/users/aaaikrz">Discord</a>
+
+<!--
 > 📬 Ping me on: [<img
        align="center"
        alt="Gmail"
@@ -88,6 +88,8 @@
        width="16px"
        src="https://cdn.simpleicons.org/discord/000/fff?viewbox=auto"
      />](https://discord.com/users/zelhajou) 
+
+-->
 <!--
 <br>
 <div align="center">
