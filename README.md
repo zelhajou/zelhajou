@@ -64,7 +64,7 @@
 # 
 
 
-> 📬 Ping me on: <a href="mailto:zelhajou@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/zelhajou/">LinkedIn</a> | <a href="https://x.com/zelhajou">X</a> | <a href="https://discord.com/users/aaaikrz">Discord</a>
+> 📬 Ping me on: <i> <a href="mailto:zelhajou@gmail.com">Email</a></i> | <i><a href="https://www.linkedin.com/in/zelhajou/">LinkedIn</a></i> | <i><a href="https://x.com/zelhajou">X</a></i> | <i><a href="https://discord.com/users/aaaikrz">Discord</a><i>
 
 <!--
 > 📬 Ping me on: [<img
