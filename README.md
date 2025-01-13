@@ -26,8 +26,7 @@
 
 <h3>🚀 What I’m Up To</h3>
 
-- 🖥 <b>42 Network Adventures:</b> Navigating the exciting challenges at 42. (it's a wild ride!)
-    - <i><a href="https://github.com/zelhajou/42cursus">🔗 Explore my journey here</a></i>
+- 🖥 <b>42 Network Adventures:</b> Navigating the exciting challenges at 1337. <i><a href="https://github.com/zelhajou/42cursus">🔗 Explore my journey here</a></i>
 - 🏗️ <b>System Design:</b> Creating robust, large-scale systems from the ground up.
 - 🌐 <b>Web Tech Exploration:</b> Experimenting with the possibilities of modern web technologies.
 
