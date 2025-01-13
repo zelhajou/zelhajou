@@ -1,24 +1,64 @@
 <h1 align="center">
+👋 Hello, World!
+<!--
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&weight=800&center=true&vCenter=true&width=850&height=90&color=1E90FF&duration=2500&lines=👋+Hello,+World!;+I'm+Zakaria+Elhajoui!;+💻+Crafting+Tech+With+Purpose!;">
+-->
 </h1>
 
-<h3>🎯 My Interests</h3>  
+<h3>🎯 My Interests</h3>
+
+- 🛠️ <b>Building Solutions:</b> Turning complex problems into effective tech solutions.
+- 💡 <b>Innovate:</b> Constantly exploring new technologies and creative ideas.
+- 🌍 <b>Make Impact:</b> Using tech to solve real-world problems and improve lives.
+
+<!--
 <pre>
 ├── 🛠️ <b>Building Solutions:</b> Turning complex problems into effective tech solutions.
 ├── 💡 <b>Innovate:</b> Constantly exploring new technologies and creative ideas.
 └── 🌍 <b>Make Impact:</b> Using tech to solve real-world problems and improve lives.
 </pre>
+-->
+
+#
 
 <h3>🚀 What I’m Up To</h3>
+
+- 🖥 <b>42 Network Adventures:</b> Navigating the exciting challenges at 42. (it's a wild ride!)
+    - <i><a href="https://github.com/zelhajou/42cursus">🔗 Explore my journey here</a></i>
+- 🏗️ <b>System Design:</b> Creating robust, large-scale systems from the ground up.
+- 🌐 <b>Web Tech Exploration:</b> Experimenting with the possibilities of modern web technologies.
+
+<!--
 <pre>
 ├── 🖥 <b>42 Network Adventures:</b> Navigating the exciting challenges at 42. (it's a wild ride!)
 │   └── <i><a href="https://github.com/zelhajou/42cursus">🔗 Explore my journey here</a></i>
 ├── 🏗️ <b>System Design:</b> Creating robust, large-scale systems from the ground up.
 └── 🌐 <b>Web Tech Exploration:</b> Experimenting with the possibilities of modern web technologies.
 </pre>
+-->
+
+#
+
+<h3>🌊 Away from the Screen</h3>
+
+- 🏊 <b>Swimming:</b> My ultimate reset button.
+- 📸 <b>Photography:</b> Capturing the beauty around me. <i><a href="https://www.instagram.com/aaaikrz/">🔗 Follow my shots</a></i>
+- 🏞️ <b>Nature:</b> The best source of inspiration and reflection.
+  
+<!--
+<pre>
+├── 🏊 <b>Swimming:</b> My ultimate reset button.
+├── 📸 <b>Photography:</b> Capturing the beauty around me. <i><a href="https://www.instagram.com/aaaikrz/">🔗 Follow my shots</a></i>
+└── 🏞️ <b>Nature:</b> The best source of inspiration and reflection.
+</pre>
+-->
+
+# 
+
+> 📬 Ping me on: <i> <a href="mailto:zelhajou@gmail.com">Email</a></i> | <i><a href="https://www.linkedin.com/in/zelhajou/">LinkedIn</a></i> | <i><a href="https://x.com/zelhajou">X</a></i> | <i><a href="https://discord.com/users/aaaikrz">Discord</a><i>
+
 
 <!--
-
 <b>🖥 42 Network Adventures:</b>
 <i>Turning complex problems into effective tech solutions.</i>
 <b>🏗️ System Design:</b>
@@ -53,18 +93,6 @@
 
 -->
 
-<h3>🌊 Away from the Screen</h3> 
-<pre>
-├── 🏊 <b>Swimming:</b> My ultimate reset button.
-├── 📸 <b>Photography:</b> Capturing the beauty around me. <i><a href="https://www.instagram.com/aaaikrz/">🔗 Follow my shots</a></i>
-└── 🏞️ <b>Nature:</b> The best source of inspiration and reflection.
-</pre>
-
-
-# 
-
-
-> 📬 Ping me on: <i> <a href="mailto:zelhajou@gmail.com">Email</a></i> | <i><a href="https://www.linkedin.com/in/zelhajou/">LinkedIn</a></i> | <i><a href="https://x.com/zelhajou">X</a></i> | <i><a href="https://discord.com/users/aaaikrz">Discord</a><i>
 
 <!--
 > 📬 Ping me on: [<img
