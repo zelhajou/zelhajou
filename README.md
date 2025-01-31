@@ -8,7 +8,8 @@
 -->
 </h1>
 
-<h3>🎯 My Interests</h3>
+
+### 🎯 My Interests
 
 - 🛠️ <b>Building Solutions:</b> Turning complex problems into effective tech solutions.
 - 💡 <b>Innovate:</b> Constantly exploring new technologies and creative ideas.
@@ -24,7 +25,7 @@
 
 #
 
-### 🚀 [What I’m Up To](https://github.com/zelhajou)
+### 🚀 What I’m Up To
 
 - 🖥 <b>42 Network Adventures:</b> Navigating the exciting challenges at 1337. <i><a href="https://github.com/zelhajou/42cursus">🔗 Explore my journey here</a></i>
 - 🏗️ <b>System Design:</b> Creating robust, large-scale systems from the ground up.
@@ -41,7 +42,7 @@
 
 #
 
-<h3>🌊 Away from the Screen</h3>
+### 🌊 Away from the Screen
 
 - 🏊 <b>Swimming:</b> My ultimate reset button.
 - 📸 <b>Photography:</b> Capturing the beauty around me. <i><a href="https://www.instagram.com/aaaikrz/">🔗 Follow my shots</a></i>
