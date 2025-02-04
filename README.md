@@ -39,7 +39,7 @@
 └── 🌐 <b>Web Tech Exploration:</b> Experimenting with the possibilities of modern web technologies.
 </pre>
 -->
-
+<!--
 #
 
 ### 🌊 Away from the Screen
@@ -47,7 +47,7 @@
 - 🏊 <b>Swimming:</b> My ultimate reset button.
 - 📸 <b>Photography:</b> Capturing the beauty around me. <i><a href="https://www.instagram.com/aaaikrz/">🔗 Follow my shots</a></i>
 - 🏞️ <b>Nature:</b> The best source of inspiration and reflection.
-  
+  -->
 <!--
 <pre>
 ├── 🏊 <b>Swimming:</b> My ultimate reset button.
