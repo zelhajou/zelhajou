@@ -56,6 +56,15 @@
 </pre>
 -->
 
+#
+
+<div align="center">
+    
+| <img src="https://github-readme-stats.vercel.app/api?username=zelhajou&show_icons=true&count_private=true&hide_border=true&&theme=transparent" align="center" style="width: 100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelhajou&layout=compact&hide_border=true&theme=transparent" align="center" style="width: 100%" /> |
+|:-:|:-:|
+
+</div>
+
 # 
 
 > 📬 Ping me on: <a href="mailto:zelhajou@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/zelhajou/">LinkedIn</a> | <a href="https://x.com/zelhajou">𝕏</a> | <a href="https://discord.com/users/aaaikrz">Discord</a>
