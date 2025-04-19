@@ -69,6 +69,10 @@
 
 #
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zelhajou&theme=github-compact&line=006AFF&hide_border=true)
+
+#
+
 ### 🤝 Open to Collaborate
 
 I'm currently looking for collaborators on these projects:
