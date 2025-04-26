@@ -1,4 +1,3 @@
-
 <h1 align="center">
     
 👋 Hello, World!
@@ -14,11 +13,17 @@
 
 #
 
-### 🚀 What I’m Up To
+### 🚀 What I'm Up To
 
 - 🖥 <b>42 Network Adventures:</b> Navigating the exciting challenges at 1337. <i><a href="https://github.com/zelhajou/42cursus">🔗 Explore my journey here</a></i>
 - 🏗️ <b>System Design:</b> Creating robust, large-scale systems from the ground up.
 - 🌐 <b>Web Tech Exploration:</b> Experimenting with the possibilities of modern web technologies.
+
+#
+
+### 📊 My Projects Collection
+
+Check out my [**Projects**](https://github.com/zelhajou/Projects) repository - a comprehensive showcase of all my GitHub repositories with detailed statistics, language breakdowns, and project metrics.
 
 
 <div align="center">
@@ -59,4 +64,3 @@ I'm currently looking for collaborators on these projects:
 # 
 
 > 📬 Ping me on: <a href="mailto:zelhajou@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/zelhajou/">LinkedIn</a> | <a href="https://x.com/zelhajou">𝕏</a> | <a href="https://discord.com/users/aaaikrz">Discord</a>
-
