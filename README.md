@@ -47,10 +47,6 @@ I'm currently looking for collaborators on these projects:
 </pre>
 </div>
 
-# 
-
-> 📬 Ping me on: <a href="mailto:zelhajou@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/zelhajou/">LinkedIn</a> | <a href="https://x.com/zelhajou">𝕏</a> | <a href="https://discord.com/users/aaaikrz">Discord</a>
-
 #
 
 ### 🌊 Away from the Screen
@@ -59,10 +55,8 @@ I'm currently looking for collaborators on these projects:
 - 📸 <b>Photography:</b> Capturing the beauty around me. <i><a href="https://www.instagram.com/aaaikrz/">🔗 Follow my shots</a></i>
 - 🏞️ <b>Nature:</b> The best source of inspiration and reflection.
 
-<!--
-<pre>
-🏊 <b>Swimming:</b> My ultimate reset button.
-📸 <b>Photography:</b> Capturing the beauty around me. <i><a href="https://www.instagram.com/aaaikrz/">🔗 Follow my shots</a></i>
-🏞️ <b>Nature:</b> The best source of inspiration and reflection.
-</pre>
--->
+
+# 
+
+> 📬 Ping me on: <a href="mailto:zelhajou@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/zelhajou/">LinkedIn</a> | <a href="https://x.com/zelhajou">𝕏</a> | <a href="https://discord.com/users/aaaikrz">Discord</a>
+
