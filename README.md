@@ -43,15 +43,6 @@ I'm currently looking for collaborators on these projects:
 
 #
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=zelhajou&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=zelhajou&theme=default">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zelhajou" width="500">
-  </picture>
-</div>
-
-
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zelhajou&theme=github-compact&line=006AFF&hide_border=true)
 
 <div align="center">
