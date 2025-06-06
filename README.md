@@ -56,7 +56,7 @@ I'm currently looking for collaborators on these projects:
 ### 🌊 Away from the Screen
 
 - 🏊 <b>Swimming:</b> My ultimate reset button.
-- 📸 <b>Photography:</b> Capturing the beauty around me. <i><a href="https://www.instagram.com/aaaikrz/">🔗 Follow my shots</a></i>
+- 📸 <b>Photography:</b> <i><a href="https://www.instagram.com/aaaikrz/">🔗 Follow my shots</a></i>
 - 🏞️ <b>Nature:</b> The best source of inspiration and reflection.
 
 
