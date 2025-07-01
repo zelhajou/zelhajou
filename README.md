@@ -5,6 +5,7 @@
 </h1>
 
 
+<!--
 ### 🎯 My Interests
 
 - 🛠️ <b>Building Solutions:</b> Turning complex problems into effective tech solutions.
@@ -12,6 +13,7 @@
 - 🌍 <b>Make Impact:</b> Using tech to solve real-world problems and improve lives.
 
 #
+-->
 
 ### 🚀 What I'm Up To
 
