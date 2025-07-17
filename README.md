@@ -35,6 +35,7 @@ Check out my [**Projects**](https://github.com/zelhajou/Projects) repository - a
 
 </div>
 
+<!--
 #
 
 ### 🤝 Open to Collaborate
@@ -46,7 +47,7 @@ I'm currently looking for collaborators on these projects:
 #
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zelhajou&theme=github-compact&line=006AFF&hide_border=true)
-
+-->
 <!--
 <div align="center">
 <pre>
