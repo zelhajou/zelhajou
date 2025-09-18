@@ -67,4 +67,4 @@ I'm currently looking for collaborators on these projects:
 
 # 
 
-> 📬 Ping me on: <a href="mailto:zelhajou@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/zelhajou/">LinkedIn</a> | <a href="https://x.com/zelhajou">𝕏</a> | <a href="https://discord.com/users/aaaikrz">Discord</a> | <a href="https://www.instagram.com/aaaikrz/">Instagram</a>
+> 📬 Ping me on: <a href="mailto:zelhajou@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/zelhajou/">LinkedIn</a> | <a href="https://x.com/zelhajou">𝕏</a> | <a href="https://discord.com/users/aaaikrz">Discord</a> | <a href="https://www.instagram.com/aaaikrz/">Instagram</a> | <a href="https://zelhajou.medium.com/">Medium</a>
