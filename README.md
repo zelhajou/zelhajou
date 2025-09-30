@@ -6,24 +6,24 @@
 
 
 <!--
-### 🎯 My Interests
+### My Interests
 
-- 🛠️ <b>Building Solutions:</b> Turning complex problems into effective tech solutions.
-- 💡 <b>Innovate:</b> Constantly exploring new technologies and creative ideas.
-- 🌍 <b>Make Impact:</b> Using tech to solve real-world problems and improve lives.
+- <b>Building Solutions:</b> Turning complex problems into effective tech solutions.
+- <b>Innovate:</b> Constantly exploring new technologies and creative ideas.
+- <b>Make Impact:</b> Using tech to solve real-world problems and improve lives.
 
 #
 -->
 
-### 🚀 What I'm Up To
+### What I'm Up To
 
-- 🖥 <b>42 Network Adventures:</b> Navigating the exciting challenges at 1337. <i><a href="https://github.com/zelhajou/42cursus">🔗 Explore my journey here</a></i>
-- 🏗️ <b>System Design:</b> Creating robust, large-scale systems from the ground up.
-- 🌐 <b>Web Tech Exploration:</b> Experimenting with the possibilities of modern web technologies.
+- <b>42 Network Adventures:</b> Navigating the exciting challenges at 1337. <i><a href="https://github.com/zelhajou/42cursus">🔗 Explore my journey here</a></i>
+- <b>System Design:</b> Creating robust, large-scale systems from the ground up.
+- <b>Web Tech Exploration:</b> Experimenting with the possibilities of modern web technologies.
 
 #
 
-### 📊 My Projects Collection
+### My Projects Collection
 
 Check out my [**Projects**](https://github.com/zelhajou/Projects) repository - a comprehensive showcase of all my GitHub repositories with detailed statistics, language breakdowns, and project metrics.
 
