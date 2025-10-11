@@ -23,7 +23,7 @@
 
 #
 
-### My Projects Collection
+### My Projects
 
 Check out my [**Projects**](https://github.com/zelhajou/Projects) repository - a comprehensive showcase of all my GitHub repositories with detailed statistics, language breakdowns, and project metrics.
 
