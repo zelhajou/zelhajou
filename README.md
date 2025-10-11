@@ -34,7 +34,7 @@ Check out my [**Projects**](https://github.com/zelhajou/Projects) repository - a
 |:-:|:-:|
 
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zelhajou&theme=github-dark"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zelhajou&theme=github-light"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=zelhajou&theme=github-light" width="98%"> </picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zelhajou&theme=github-dark"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zelhajou&theme=github-light"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=zelhajou&theme=github-light" width="97%"> </picture>
 
 </div>
 
