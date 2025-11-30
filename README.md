@@ -27,18 +27,17 @@
 
 Check out my [**Projects**](https://github.com/zelhajou/Projects) repository - a comprehensive showcase of all my GitHub repositories with detailed statistics, language breakdowns, and project metrics.
 
-
+<!--
 <div align="center">
-    
+
 | <img src="https://github-readme-stats.vercel.app/api?username=zelhajou&show_icons=true&count_private=true&hide_border=true&&theme=transparent" align="center" style="width: 100%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelhajou&layout=compact&hide_border=true&theme=transparent" align="center" style="width: 100%" /> |
 |:-:|:-:|
 
-<!--
+
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zelhajou&theme=github-dark"> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zelhajou&theme=github-light"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=zelhajou&theme=github-light" width="97%"> </picture>
--->
 
 </div>
-
+-->
 <!--
 #
 
