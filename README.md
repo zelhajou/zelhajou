@@ -1,6 +1,6 @@
 <h1 align="center">
     
-👋 Hello, World!
+Hello, World!
 
 </h1>
 
@@ -15,17 +15,16 @@
 #
 -->
 
-### What I'm Up To
-
-- <b>42 Network Adventures:</b> Navigating the exciting challenges at 1337. <i><a href="https://github.com/zelhajou/42cursus">🔗 Explore my journey here</a></i>
-- <b>System Design:</b> Creating robust, large-scale systems from the ground up.
-- <b>Web Tech Exploration:</b> Experimenting with the possibilities of modern web technologies.
+### Current Focus
+- Advancing my skills at 1337 (42 Network) <i><a href="https://github.com/zelhajou/42cursus">🔗 Explore my journey here</a></i>
+- Architecting large-scale systems from scratch
+- Diving deep into web frameworks, tooling, and performance
 
 #
 
-### My Projects
+### Projects
+Browse my [**Projects**](https://github.com/zelhajou/Projects) repo for a complete overview of my GitHub work, including stats, languages, and metrics.
 
-Check out my [**Projects**](https://github.com/zelhajou/Projects) repository - a comprehensive showcase of all my GitHub repositories with detailed statistics, language breakdowns, and project metrics.
 
 <!--
 <div align="center">
