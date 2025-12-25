@@ -20,8 +20,6 @@ Hello, World! 👋
 - Architecting large-scale systems from scratch
 - Diving deep into web frameworks, tooling, and performance
 
-#
-
 ### Projects
 Browse my [**Projects**](https://github.com/zelhajou/Projects) repo for a complete overview of my GitHub work, including stats, languages, and metrics.
 
